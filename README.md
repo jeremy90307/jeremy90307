@@ -6,6 +6,9 @@ years. I am now a second-year master's student,
 committed to self-improvement. I have a passion for
 embedded systems and spend my free time learning
 more about them.
+
+![image](https://github.com/user-attachments/assets/5b3af7c7-75bb-4559-8a15-00dbc636ca99)
+
 <!--
 **jeremy90307/jeremy90307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
