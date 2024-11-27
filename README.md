@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+Hello, I'm Tasi Zhong Han. I enjoy learning and taking
+on challenges. I excelled at building relationships and
+expanding my connections during my undergraduate
+years. I am now a second-year master's student,
+committed to self-improvement. I have a passion for
+embedded systems and spend my free time learning
+more about them.
 <!--
 **jeremy90307/jeremy90307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
